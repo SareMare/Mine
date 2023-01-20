@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboop6.a CMakeFiles/oop6.dir/src/oop6.cpp.o
+/usr/bin/ranlib liboop6.a

@@ -1,0 +1,6 @@
+/code/build/CMakeFiles/rebuild_cache.dir
+/code/build/CMakeFiles/edit_cache.dir
+/code/build/CMakeFiles/main.dir
+/code/build/oop4/CMakeFiles/rebuild_cache.dir
+/code/build/oop4/CMakeFiles/edit_cache.dir
+/code/build/oop4/CMakeFiles/oop4.dir

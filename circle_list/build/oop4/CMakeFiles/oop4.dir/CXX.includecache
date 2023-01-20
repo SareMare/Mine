@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../oop4/include/oop4.h
+iostream
+-
+
+/code/oop4/src/oop4.cpp
+iostream
+-
+oop4.h
+/code/oop4/src/oop4.h
+

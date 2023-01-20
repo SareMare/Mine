@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../oop2/include/oop2.h
+string
+-
+algorithm
+-
+ostream
+-
+
+/code/main.cpp
+iostream
+-
+string
+-
+oop2.h
+/code/oop2.h
+

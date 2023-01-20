@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboop4.a CMakeFiles/oop4.dir/src/oop4.cpp.o
+/usr/bin/ranlib liboop4.a
