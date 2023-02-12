@@ -1,0 +1,4 @@
+﻿  idz3_dimka.cpp
+C:\Users\724an\source\repos\idz3_dimka\idz3_dimka\idz3_dimka.cpp(68,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\724an\source\repos\idz3_dimka\idz3_dimka\idz3_dimka.cpp(201,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  idz3_dimka.vcxproj -> C:\Users\724an\source\repos\idz3_dimka\x64\Debug\idz3_dimka.exe

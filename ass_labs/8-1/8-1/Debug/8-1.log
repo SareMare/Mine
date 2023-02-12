@@ -1,0 +1,4 @@
+﻿  Assembling write.asm...
+C:\masm32\include\winextra.inc(11052): error A2026: constant expected
+C:\masm32\include\winextra.inc(11053): error A2026: constant expected
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\write.obj" /Fl"8-1.lst" /W3 /errorReport:prompt  /Tawrite.asm" с кодом "1".

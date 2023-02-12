@@ -1,0 +1,3 @@
+﻿  list_ver2.cpp
+C:\Users\724an\source\repos\list_ver2\list_ver2\list_ver2.cpp(108): warning C4715: tree::max_left_node: значение возвращается не при всех путях выполнения
+  list_ver2.vcxproj -> C:\Users\724an\source\repos\list_ver2\x64\Debug\list_ver2.exe

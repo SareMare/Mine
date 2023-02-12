@@ -1,0 +1,3 @@
+﻿  list.cpp
+C:\Users\724an\source\repos\list\list\list.cpp(119): warning C4715: search: значение возвращается не при всех путях выполнения
+  list.vcxproj -> C:\Users\724an\source\repos\list\x64\Debug\list.exe

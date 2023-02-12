@@ -1,0 +1,48 @@
+﻿  vvod.cpp
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(5,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(7,3): error C2065: mov: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(7,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ah"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(7,7): error C2065: ah: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,3): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,7): error C2059: синтаксическая ошибка: user-defined literal
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,12): error C2065: получить: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,29): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "код"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,29): error C2065: код: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,36): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "следующей"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,36): error C2065: следующей: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,55): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "нажатой"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,55): error C2065: нажатой: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,70): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "клавиши"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(8,70): error C2065: клавиши: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(9,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(9,3): error C2065: mov: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(9,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ah"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(9,7): error C2065: ah: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,3): error C2065: mov: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dl"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,7): error C2065: dl: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,11): error C2065: al: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,15): error C2065: переместить: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,38): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "считанный"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,38): error C2065: считанный: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,57): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "символ"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,57): error C2065: символ: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,70): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "из"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,70): error C2065: из: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,75): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "AL"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,75): error C2065: AL: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,78): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,78): error C2065: в: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,81): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "DL"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(10,81): error C2065: DL: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,3): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,7): error C2059: синтаксическая ошибка: user-defined literal
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,12): error C2065: вывести: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,27): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "его"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,27): error C2065: его: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,34): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "на"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,34): error C2065: на: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "экран"
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(11,39): error C2065: экран: необъявленный идентификатор
+C:\Users\724an\source\repos\vvod\vvod\vvod.cpp(12,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
